@@ -1,7 +1,4 @@
----
-layout: page
-title: Home
----
+
 
 # Deniz Ekin Yavas
 **/de.niz e.kin jɑ.vɑʃ/**
