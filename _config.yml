@@ -2,3 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-default-layout
   - jekyll-optional-front-matter
+sidebar:
+  - getting-started
