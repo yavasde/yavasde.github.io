@@ -3,4 +3,5 @@ plugins:
   - jekyll-default-layout
   - jekyll-optional-front-matter
 sidebar:
-  - getting-started
+  - home
+  - contact
